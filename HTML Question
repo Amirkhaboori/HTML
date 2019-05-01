@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head><link rel="apple-touch-icon" sizes="57x57" href="../FAVICON/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="../FAVICON/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="../FAVICON/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="../FAVICON/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="../FAVICON/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="../FAVICON/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="../FAVICON/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="../FAVICON/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="../FAVICON/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="../FAVICON/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="../FAVICON/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="../FAVICON/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="../FAVICON/favicon-16x16.png">
+<link rel="manifest" href="../FAVICON/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<form action="https://www.google.ca">
+   <button type="submit">go to google!</button>
+   <input type="submit">
+   <h2> Please Answer the questions </h2>
+</form>
+<h1>Question 1:</h1>
+<p><a id="q1" href="..#a1">1. What is 50 + 72?</a></p>
+<h1>Answer:</h1>
+<p><a id="a1" href="..#q1" >1. 122</a></p>
+<h1>Question 2:</h1>
+<p><a id="q2" href="..#a2">2. What is 99 + 33?</a></p>
+<h1>Answer:</h1>
+<p><a id="a2" href="..#q2">2. 132</a></p>
+<h1>Question 3:</h1>
+<p><a id="q3" href="..#a3">3. What is 50 - 88?</a></p>
+<h1>Answer:</h1>
+<p><a id="a3" href="..#q3">3. -38</a></p>
+<h1>Question 4:</h1>
+<p><a id="q4" href="..#a4">4. What is 123 / 3?</a></p>
+<h1>Answer:</h1>
+<p><a id="a4" href="..#q4">4. 41</a></p>
+<h1>Question 5:</h1>
+<p><a id="q5" href="..#a5">5. What is 5 + 4 - 3 + 6?</a></p>
+<h1>Answer:</h1>
+<p><a id="a5" href="..#q5">5. 12</a></p>
+<a href="..https://pixabay.com/en/" title="free pictures!"target="_blank"><img src="../IMG/code.png"alt="code photo"style="width:64px;height:42px;border:0;"></a>
+</body>
